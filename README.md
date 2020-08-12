@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tiiamati&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiiamati&layout=compact&theme=onedark" />
 </a>
-<a href="https://github.com/anuraghazra/top-langs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tiiamati&repo=top-langs" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tiiamati&theme=onedark&hide=stars,issues&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tiiamati&repo=ecommerce&show_owner=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tiiamati&repo=ecommerceMaskara&show_owner=true&theme=onedark" />
 </a>
